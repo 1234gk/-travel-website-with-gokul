@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(113, 175, 219);
+    background:url("back1.webp");
+
+}
+
+fieldset{
+    background-color: azure;
+    width: fit-content;
+    border-radius: 20px;
+
+}
+button{
+    height: 35px;
+    width: 250px;
+    margin: 5px.0px;
+    border-radius: 50px;
+    background-color:rgb(47, 108, 239);
+    color: white;
+}
+p1{
+    font-family:kanit;
+    font-size: medium;
+
+
+}
